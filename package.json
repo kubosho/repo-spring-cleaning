@@ -1,0 +1,31 @@
+{
+  "name": "repo-spring-cleaning",
+  "version": "1.0.0",
+  "description": "Spring cleaning the GitHub repository tool",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kubosho/repo-spring-cleaning.git"
+  },
+  "keywords": [
+    "github",
+    "cleaning"
+  ],
+  "author": "kubosho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kubosho/repo-spring-cleaning/issues"
+  },
+  "homepage": "https://github.com/kubosho/repo-spring-cleaning#readme",
+  "private": true,
+  "dependencies": {
+    "@octokit/rest": "^16.3.0",
+    "express": "^4.16.4",
+    "react": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
+  }
+}
