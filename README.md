@@ -1,4 +1,4 @@
-# Spring cleaning the GitHub repository tool
+# Spring cleaning tool for GitHub repository
 
 ## Motivation
 
